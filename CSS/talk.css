@@ -1,0 +1,47 @@
+body{
+/*	background-color: black;*/
+	color: black;
+	text-align: center;
+	font-family: monospace;
+}
+
+#display {
+	width: 400px;
+	height: 300px;
+	border: 1px solid black;
+	margin: auto;
+	margin-bottom: 1em;
+	overflow-y: scroll;
+	text-align: left;
+	padding: 15px;
+	box-sizing: border-box;
+}
+
+textarea[name='message'] {
+	width: 400px;
+	height: 100px;
+	background-color: silver;
+	padding: 18px;
+	color: black;
+	text-align: left;
+}
+
+button {
+	padding: 9px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 20px;
+	color: red;
+}
+
+#send { 
+	background-color: #CCC;
+	width: 400px;
+	margin: 0 auto;
+}
+
+.loggedUser{
+	text-align: right;
+}
