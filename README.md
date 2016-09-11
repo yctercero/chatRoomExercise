@@ -1,6 +1,8 @@
 # chatRoomExercise
 AJAX Exercise - simple chat room.
 
-note: there is only one user added Charlie Brown
+Can test it out by opening to tabs - http://yadayadacreative.com/CDA/talk/login.php. 
 
-note: to use all files, all files need to be in same folder not separated out
+On one tab sign in as 'User1', password: 'Password' (I know, super secure!).
+
+On the other tab sign in as 'User2', password: '123'.
